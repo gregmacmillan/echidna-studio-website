@@ -3251,6 +3251,15 @@ p, ul, ol, dl, table {
 		background-position: top left, center center;
 	}
 
+	/* Video */
+
+		#video {
+			background: url(""), url("../../images/video.jpg");
+			background-size: 256px 256px, cover;
+			background-attachment: fixed, fixed;
+			background-position: top left, center center;
+		}
+
 	/* Four */
 
 		#four {
