@@ -1,2 +1,2 @@
-# echidna-studio-website2
+# echidna-studio-website
 New version of website
